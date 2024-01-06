@@ -1,0 +1,2 @@
+GitHub is not Git 
+Both are different
